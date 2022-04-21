@@ -1,0 +1,2 @@
+Model filter=lfs diff=lfs merge=lfs -text
+proj.android.cmake filter=lfs diff=lfs merge=lfs -text
