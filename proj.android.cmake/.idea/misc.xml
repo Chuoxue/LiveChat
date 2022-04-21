@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/12446/AndroidStudioProjects/CubismSdkForNative-4-r.0/Samples/OpenGL/Demo/proj.android.cmake/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/12446/AndroidStudioProjects/CubismSdkForNative-4-r.0/Samples/OpenGL/Demo/proj.android.cmake/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/12446/Desktop/UI1.0/Samples/OpenGL/Demo/proj.android.cmake/app/src/main/res/layout/activity_chat.xml" value="0.16019736842105264" />
+        <entry key="..\:/Users/12446/Desktop/UI1.0/Samples/OpenGL/Demo/proj.android.cmake/app/src/main/res/layout/activity_chat1.xml" value="0.16019736842105264" />
+        <entry key="..\:/Users/12446/Desktop/UI1.0/Samples/OpenGL/Demo/proj.android.cmake/app/src/main/res/layout/activity_login.xml" value="0.16019736842105264" />
+        <entry key="..\:/Users/12446/Desktop/UI1.0/Samples/OpenGL/Demo/proj.android.cmake/app/src/main/res/layout/activity_login2.xml" value="0.15098684210526317" />
+        <entry key="..\:/Users/12446/Desktop/UI1.0/Samples/OpenGL/Demo/proj.android.cmake/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/12446/Desktop/UI1.0/Samples/OpenGL/Demo/proj.android.cmake/app/src/main/res/layout/activity_plus_window.xml" value="0.14993169398907105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

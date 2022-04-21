@@ -1,0 +1,21 @@
+                Executable : C:\Users\12256\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\Users\12256\Documents\Little Project\UI2.0\Samples\OpenGL\Demo\proj.android.cmake\app
+-DCMAKE_FIND_ROOT_PATH=C:\Users\12256\Documents\Little Project\UI2.0\Samples\OpenGL\Demo\proj.android.cmake\app\.cxx\cmake\release\prefab\armeabi-v7a\prefab
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\12256\AppData\Local\Android\Sdk\ndk\21.1.6352462\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=C:\Users\12256\AppData\Local\Android\Sdk\ndk\21.1.6352462
+-DANDROID_PLATFORM=android-23
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_ANDROID_NDK=C:\Users\12256\AppData\Local\Android\Sdk\ndk\21.1.6352462
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\12256\Documents\Little Project\UI2.0\Samples\OpenGL\Demo\proj.android.cmake\app\build\intermediates\cmake\release\obj\armeabi-v7a
+-DCMAKE_MAKE_PROGRAM=C:\Users\12256\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=23
+-BC:\Users\12256\Documents\Little Project\UI2.0\Samples\OpenGL\Demo\proj.android.cmake\app\.cxx\cmake\release\armeabi-v7a
+-GNinja
+jvmArgs : 
+
+Build command args:

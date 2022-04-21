@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".UploadCorpus">
+
+    <LinearLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <include layout="@layout/drawer_toolbar" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_gravity="center"
+        android:background="#636363"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"/>
+
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:id="@+id/audio_list_view"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="600dp"-->
+<!--        android:layout_marginBottom="260dp"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/upload"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.0"-->
+<!--        tools:layout_editor_absoluteX="0dp" />-->
+
+    <ImageButton
+        android:id="@+id/btn_corpus1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rect3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.15" />
+
+    <ImageButton
+        android:id="@+id/btn_corpus2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rect3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.282" />
+
+    <ImageButton
+        android:id="@+id/btn_corpus3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rect3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.411" />
+
+    <ImageButton
+        android:id="@+id/btn_corpus4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rect3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.541" />
+
+    <ImageButton
+        android:id="@+id/upload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rect2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.914" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="上传语料"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="@+id/upload"
+        app:layout_constraintEnd_toEndOf="@+id/upload"
+        app:layout_constraintStart_toStartOf="@+id/upload"
+        app:layout_constraintTop_toTopOf="@+id/upload"
+        app:layout_constraintVertical_bias="0.308" />
+
+    <TextView
+        android:id="@+id/corpus1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="柯南语料"
+        android:textSize="18sp"
+        android:textColor="@android:color/secondary_text_light"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_corpus1"
+        app:layout_constraintEnd_toEndOf="@+id/btn_corpus1"
+        app:layout_constraintStart_toStartOf="@+id/btn_corpus1"
+        app:layout_constraintTop_toTopOf="@+id/btn_corpus1"
+        app:layout_constraintVertical_bias="0.3" />
+
+    <TextView
+        android:id="@+id/corpus2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="哆啦A梦语料"
+        android:textSize="18sp"
+        android:textColor="@android:color/secondary_text_light"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_corpus2"
+        app:layout_constraintEnd_toEndOf="@+id/btn_corpus2"
+        app:layout_constraintHorizontal_bias="0.513"
+        app:layout_constraintStart_toStartOf="@+id/btn_corpus2"
+        app:layout_constraintTop_toTopOf="@+id/btn_corpus2"
+        app:layout_constraintVertical_bias="0.341" />
+
+    <EditText
+        android:id="@+id/corpus3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:text=""
+        android:textColor="@android:color/secondary_text_light"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_corpus3"
+        app:layout_constraintEnd_toEndOf="@+id/btn_corpus3"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="@+id/btn_corpus3"
+        app:layout_constraintTop_toTopOf="@+id/btn_corpus3"
+        app:layout_constraintVertical_bias="0.341" />
+
+    <EditText
+        android:id="@+id/corpus4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:text=""
+        android:textColor="@android:color/secondary_text_light"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_corpus4"
+        app:layout_constraintEnd_toEndOf="@+id/btn_corpus4"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="@+id/btn_corpus4"
+        app:layout_constraintTop_toTopOf="@+id/btn_corpus4"
+        app:layout_constraintVertical_bias="0.357" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

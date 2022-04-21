@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\12256\Documents\Little Project\UI2.0\Samples\OpenGL\Demo\proj.android.cmake\app\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.

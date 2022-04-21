@@ -1,0 +1,88 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "kenan.moc3",
+    "Textures": [
+      "kenan.2048/texture_00.png"
+    ],
+    "Physics": "kenan.physics3.json",
+    "PhysicsV2": {
+      "File": "kenan.physics3.json"
+    },
+    "Motions": {
+      "Idle": [
+        {
+          "File": "踢球Scene1.motion3.json"
+        }
+      ],
+      "真相": [
+        {
+          "File": "真相Scene1.motion3.json",
+          "Sound": "真相只有一个.mp3"
+        }
+      ],
+      "啊咧咧": [
+        {
+          "File": "啊咧咧Scene1.motion3.json",
+          "Sound": "啊咧咧.mp3"
+        }
+      ]
+    }
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "HitAreas": [
+    {
+      "Name": "ArtMesh8",
+      "Id": "ArtMesh8",
+      "Motion": "啊咧咧"
+    },
+    {
+      "Name": "ArtMesh9",
+      "Id": "ArtMesh9",
+      "Motion": "真相"
+    }
+  ],
+  "Options": {}
+}

@@ -1,0 +1,710 @@
+[
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_ok.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_mcp.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_mcp.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.jpg.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon108.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\app_icon108.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meaninglesstext3.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\meaninglesstext3.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_switch.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_switch.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_trans.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_trans.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_tongyongshezhi.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_tongyongshezhi.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload_audio.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_upload_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_help.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_help.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_login.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_login.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_trans.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_trans.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_upload_corpus.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\upload_corpus.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_profile.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_register.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_register.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog1.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\dog1.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_bottom_out.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mcphone4.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\mcphone4.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload_corpus.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_upload_corpus.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon28.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\app_icon28.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_account.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_account.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_hide.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_textbox.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rect_textbox.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect3.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rect3.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_bg.jpg.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\login_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_bg_color.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\list_bg_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_back.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_back.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_welcome.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellpise_plus.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellpise_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bck.jpg.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\bck.jpg"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_tongzhishezhi.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_tongzhishezhi.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_round.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_round.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_zoomout.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_zoomout.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_shade.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\bg_shade.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mcphone3.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\mcphone3.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog2.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\dog2.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_username.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_username.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_xitongtongzhi.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_xitongtongzhi.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dislike.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\dislike.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_lock.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_shiftbg1.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_shiftbg1.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_bg.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rect_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_setting.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meaninglesstext2.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\meaninglesstext2.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_search.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_speaker.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_typename_newuser.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_typename_newuser.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_bottom.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rect_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_setting.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button2.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\button2.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect2.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rect2.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_no_photo.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable-hdpi\\no_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_infor.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_infor.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textbox_password.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\textbox_password.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_yinsishezhi.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_yinsishezhi.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle1.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rectangle1.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_guanyuwomen.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_guanyuwomen.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_text.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rect_text.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_show.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_show.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_password1.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_password1.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_toolbar.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\drawer_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mcphone2.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\mcphone2.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_haoyouliebiao.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_haoyouliebiao.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textbox2.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\textbox2.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_back.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chathistory.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\chathistory.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_config.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\config.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\triangle.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle2union.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rectangle2union.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_cata.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rect_cata.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_table_item.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\table_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_beijing.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_beijing.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_sixin.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_sixin.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgpicture.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\bgpicture.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_typename.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_typename.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_profile.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\image_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_shift.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_shift.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rectangle.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_password2.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_password2.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_profile_more.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\image_profile_more.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_configure.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_configure.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_confirmpassword.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_confirmpassword.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mc.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\mc.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_left.9.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\message_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_zhanghaoyuanquan.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_zhanghaoyuanquan.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_view.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_main_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat1.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_chat1.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_register2.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_register2.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_toolbar.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\main_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_lock.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_xuanfuchuang.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_xuanfuchuang.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_nav_drawer.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\main_nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading.gif.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\loading.gif"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_logout.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rect_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_waiguan.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_waiguan.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_shiftbg2.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_shiftbg2.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_renwu.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_renwu.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_btn_recording.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable-hdpi\\record_btn_recording.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout_text.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\logout_text.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_typepassword.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_typepassword.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_shift.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_shift.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_plus_window.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_plus_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg3.jpg.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button3.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\button3.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ai_jump.gif.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ai_jump.gif"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_logout.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_more.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_more.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_msg_item.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\msg_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_share.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_share.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_oddshape.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_oddshape.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textbox1.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\textbox1.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_image.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\bg_image.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mcphone.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\mcphone.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record_btn_stopped.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable-hdpi\\record_btn_stopped.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\dog.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcometext.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\welcometext.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_name.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_name.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_know_base.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_know_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_hello.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_hello.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_knowbase.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\knowbase.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textbox_typeusername.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\textbox_typeusername.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_triangle.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_triangle.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_p.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\setting_p.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_password.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_password.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_right.9.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\message_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_plus.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_time.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_time.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_profile_more.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ellipse_profile_more.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_bottom_in.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_private.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\icon_private.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_live2d.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\live2d.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_base_config.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_base_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_privacy.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\layout\\activity_privacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like_emp.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\like_emp.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_refresh_icon.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\refresh_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect1.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\rect1.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_fushichuanda.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_fushichuanda.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meaninglesstext1.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\meaninglesstext1.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textbox_confirm.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\textbox_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_xiaoxitongzhi.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\text_xiaoxitongzhi.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button1.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\button1.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dislike_emp.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\drawable\\dislike_emp.png"
+    },
+    {
+        "merged": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Sun Apr 10 21:50:38 CST 2022
+base.0=C\:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

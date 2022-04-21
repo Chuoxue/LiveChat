@@ -1,0 +1,533 @@
+{
+  "stringTable": {
+    "0": "C:/Users/12256/Documents/Little Project/UI2.0/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=C:/Users/12256/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12256/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DCSM_TARGET_ANDROID_ES2 -DDemo_EXPORTS -I../../../../../../../../../Samples/OpenGL/thirdParty/stb -I\"C:/Users/12256/Documents/Little Project/UI2.0/Framework/src\" -isystem ../../../../../../../../../Core/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -std=c++14",
+    "2": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=C:/Users/12256/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12256/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DCSM_TARGET_ANDROID_ES2 -I\"C:/Users/12256/Documents/Little Project/UI2.0/Framework/src\" -I\"C:/Users/12256/Documents/Little Project/UI2.0/Framework/../Core/include\" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -std=c++14"
+  },
+  "buildFiles": [
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\CMakeLists.txt",
+    "C:\\Users\\12256\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\12256\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Effect\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Id\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Physics\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Rendering\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Rendering\\OpenGL\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Type\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Utils\\CMakeLists.txt",
+    "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\12256\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\12256\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Framework-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\12256\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" Framework",
+      "buildType": "debug",
+      "toolchain": "1338544244",
+      "abi": "armeabi-v7a",
+      "artifactName": "Framework",
+      "files": [
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\CubismCdiJson.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\CubismDefaultParameterId.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\CubismFramework.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\CubismModelSettingJson.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Effect\\CubismBreath.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Effect\\CubismEyeBlink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Effect\\CubismPose.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Id\\CubismId.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Id\\CubismIdManager.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismMath.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismMatrix44.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismModelMatrix.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismTargetPoint.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismVector2.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismViewMatrix.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CubismMoc.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CubismModel.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CubismModelUserData.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CubismModelUserDataJson.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CubismUserModel.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\ACubismMotion.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismExpressionMotion.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotion.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotionJson.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotionManager.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotionQueueEntry.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotionQueueManager.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Physics\\CubismPhysics.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Physics\\CubismPhysicsJson.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Rendering\\CubismRenderer.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Rendering\\OpenGL\\CubismOffscreenSurface_OpenGLES2.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Rendering\\OpenGL\\CubismRenderer_OpenGLES2.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Type\\csmRectF.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Type\\csmString.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Utils\\CubismDebug.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Utils\\CubismJson.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Utils\\CubismString.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\CubismCdiJson.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\CubismDefaultParameterId.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\CubismFramework.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\CubismFrameworkConfig.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\CubismModelSettingJson.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\ICubismAllocator.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\ICubismModelSetting.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Live2DCubismCore.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Effect\\CubismBreath.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Effect\\CubismEyeBlink.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Effect\\CubismPose.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Id\\CubismId.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Id\\CubismIdManager.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismMath.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismMatrix44.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismModelMatrix.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismTargetPoint.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismVector2.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Math\\CubismViewMatrix.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CubismMoc.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CubismModel.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CubismModelUserData.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CubismModelUserDataJson.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Model\\CubismUserModel.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\ACubismMotion.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismExpressionMotion.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotion.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotionInternal.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotionJson.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotionManager.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotionQueueEntry.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Motion\\CubismMotionQueueManager.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Physics\\CubismPhysics.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Physics\\CubismPhysicsInternal.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Physics\\CubismPhysicsJson.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Rendering\\CubismRenderer.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Rendering\\OpenGL\\CubismOffscreenSurface_OpenGLES2.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Rendering\\OpenGL\\CubismRenderer_OpenGLES2.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Type\\csmMap.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Type\\csmRectF.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Type\\csmString.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Type\\csmVector.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Type\\CubismBasicType.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Utils\\CubismDebug.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Utils\\CubismJson.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Framework\\src\\Utils\\CubismString.hpp",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\Framework\\libFramework.a"
+    },
+    "Demo-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\12256\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" Demo",
+      "buildType": "debug",
+      "toolchain": "1338544244",
+      "abi": "armeabi-v7a",
+      "artifactName": "Demo",
+      "files": [
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\JniBridgeC.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppAllocator.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppDefine.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppDelegate.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppLive2DManager.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppModel.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppPal.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppSprite.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppTextureManager.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppView.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\TouchManager.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\JniBridgeC.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppAllocator.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppDefine.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppDelegate.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppLive2DManager.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppModel.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppPal.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppSprite.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppTextureManager.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\LAppView.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\src\\main\\cpp\\TouchManager.hpp",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "C:\\Users\\12256\\Documents\\Little Project\\UI2.0\\Samples\\OpenGL\\Demo\\proj.android.cmake\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libDemo.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1338544244": {
+      "cppCompilerExecutable": "C:\\Users\\12256\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
