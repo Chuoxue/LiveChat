@@ -7,4 +7,6 @@ In order to realize the personalized function, we start from the two aspects of 
 "proj.android.cmake" contains the code for the Android part
 
 "Model" contains the code for the server-side
+
+
 ![Architecture](https://user-images.githubusercontent.com/58210297/166419014-4e7aeac7-7bdc-48a1-99ae-e1a8a579292b.png)
