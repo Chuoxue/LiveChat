@@ -5,5 +5,6 @@ In order to realize the personalized function, we start from the two aspects of 
 
 # Project Structure
 "proj.android.cmake" contains the code for the Android part
+
 "Model" contains the code for the server-side
 ![image](https://user-images.githubusercontent.com/58210297/166418671-36fe91e3-2d9c-4b9f-875e-7bf708acd47a.png)
